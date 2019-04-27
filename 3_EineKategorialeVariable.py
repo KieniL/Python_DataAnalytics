@@ -6,7 +6,7 @@
 
 import pandas as pd
 
-filePath = "C:\\Users\\lkrei\\Desktop\\Python\\ExercisesDatenanalyse\\Datenanalyse\\Einheit 3\\umfrage.csv"
+filePath = "C:\\Users\\lkrei\\Desktop\\Python\\Datenanalyse\\Einheit 3\\umfrage.csv"
 
 data = pd.read_csv(filePath, sep=",")
 
