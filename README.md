@@ -1,4 +1,3 @@
 # Python_DataAnalytics
-Some PythonScripts as Jupyter Notebook for data-analytics and data-modelling
+Some PythonScripts as Jupyter Notebook for data-analytics, data-modelling and machine learning
 
-The digit will define the exercise which will be handled
