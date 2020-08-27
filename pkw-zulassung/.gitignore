@@ -1,0 +1,11 @@
+pyvenv.cfg
+bin
+include
+lib
+lib64
+share
+data.csv
+header.csv
+marke.csv
+datum.csv
+typ.csv
