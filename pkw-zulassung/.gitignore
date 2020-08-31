@@ -4,10 +4,6 @@ include
 lib
 lib64
 share
-data.csv
-header.csv
-marke.csv
-datum.csv
-typ.csv
+*.csv
 .ipynb_checkpoints
 etc
